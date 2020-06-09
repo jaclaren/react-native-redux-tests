@@ -1,1 +1,1 @@
-"# react-native-redux-tests" 
+Redux and saga testing in react native
